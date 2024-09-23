@@ -1,0 +1,13 @@
+C:\Users\Collin Joe\source\repos\PaymentSystem\PaymentSystem\bin\Debug\PaymentSystem.exe.config
+C:\Users\Collin Joe\source\repos\PaymentSystem\PaymentSystem\bin\Debug\PaymentSystem.exe
+C:\Users\Collin Joe\source\repos\PaymentSystem\PaymentSystem\bin\Debug\PaymentSystem.pdb
+C:\Users\Collin Joe\source\repos\PaymentSystem\PaymentSystem\bin\Debug\PaymentSystem.xml
+C:\Users\Collin Joe\source\repos\PaymentSystem\PaymentSystem\obj\Debug\PaymentSystem.vbproj.AssemblyReference.cache
+C:\Users\Collin Joe\source\repos\PaymentSystem\PaymentSystem\obj\Debug\PaymentSystem.Form1.resources
+C:\Users\Collin Joe\source\repos\PaymentSystem\PaymentSystem\obj\Debug\PaymentSystem.Resources.resources
+C:\Users\Collin Joe\source\repos\PaymentSystem\PaymentSystem\obj\Debug\PaymentSystem.vbproj.GenerateResource.cache
+C:\Users\Collin Joe\source\repos\PaymentSystem\PaymentSystem\obj\Debug\PaymentSystem.vbproj.CoreCompileInputs.cache
+C:\Users\Collin Joe\source\repos\PaymentSystem\PaymentSystem\obj\Debug\PaymentSystem.exe
+C:\Users\Collin Joe\source\repos\PaymentSystem\PaymentSystem\obj\Debug\PaymentSystem.xml
+C:\Users\Collin Joe\source\repos\PaymentSystem\PaymentSystem\obj\Debug\PaymentSystem.pdb
+C:\Users\Collin Joe\source\repos\PaymentSystem\PaymentSystem\obj\Debug\PaymentSystem.Form2.resources
